@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Stone/Stone.vcxproj" Id="0f932d19-616e-4c9b-8ed8-e95bb352453a" />
+</Solution>
